@@ -1,6 +1,5 @@
 
 ---
-```markdown
 # Flask Simple Login System
 
 A basic user login system built with [Flask](https://flask.palletsprojects.com/), demonstrating how to handle form submissions and user authentication using a mock in-memory database.
