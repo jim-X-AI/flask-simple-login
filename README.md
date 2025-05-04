@@ -1,7 +1,3 @@
-flask-simple-login
-
-Here's a matching README.md you can use:
-
 
 ---
 
