@@ -25,7 +25,7 @@ A beginner-friendly Flask application demonstrating a simple login system using 
 ```bash
 git clone https://github.com/yourusername/flask-simple-login.git
 cd flask-simple-login
-
+```
 2. Install Dependencies
 
 pip install flask
